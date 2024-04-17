@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1713280206 source:c:\users\muhammad ridho f\desktop\c program\nonbinarytree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ADTNonBinaryTree.h"
+
+1713280089 source:c:\users\muhammad ridho f\desktop\c program\nonbinarytree\adtnonbinarytree.c
+	"ADTNonBinaryTree.h"
+
+1713279393 c:\users\muhammad ridho f\desktop\c program\nonbinarytree\adtnonbinarytree.h
+	"boolean.h"
+
+1713235792 c:\users\muhammad ridho f\desktop\c program\nonbinarytree\boolean.h
+
